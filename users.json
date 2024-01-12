@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Isabel",
+        "last_name": "Seamark",
+        "email": "iseamark0@yelp.com",
+        "gender": "Female",
+        "ip_address": "208.196.45.80"
+    },
+    {
+        "id": 2,
+        "first_name": "Hettie",
+        "last_name": "Pinn",
+        "email": "hpinn1@yolasite.com",
+        "gender": "Female",
+        "ip_address": "226.223.15.68"
+    },
+    {
+        "id": 3,
+        "first_name": "Dion",
+        "last_name": "Brouncker",
+        "email": "dbrouncker2@naver.com",
+        "gender": "Female",
+        "ip_address": "224.126.21.45"
+    },
+    {
+        "id": 4,
+        "first_name": "Bailie",
+        "last_name": "Pelosi",
+        "email": "bpelosi3@tamu.edu",
+        "gender": "Male",
+        "ip_address": "157.125.103.115"
+    },
+    {
+        "id": 5,
+        "first_name": "Tommie",
+        "last_name": "Virr",
+        "email": "tvirr4@youku.com",
+        "gender": "Male",
+        "ip_address": "205.10.151.49"
+    },
+    {
+        "id": 6,
+        "first_name": "Teodora",
+        "last_name": "Stollwerk",
+        "email": "tstollwerk5@51.la",
+        "gender": "Female",
+        "ip_address": "102.33.36.57"
+    },
+    {
+        "id": 7,
+        "first_name": "Obidiah",
+        "last_name": "Sartain",
+        "email": "osartain6@xing.com",
+        "gender": "Male",
+        "ip_address": "66.211.124.44"
+    },
+    {
+        "id": 8,
+        "first_name": "Myrtice",
+        "last_name": "Beadle",
+        "email": "mbeadle7@rediff.com",
+        "gender": "Female",
+        "ip_address": "93.91.223.255"
+    },
+    {
+        "id": 9,
+        "first_name": "Lurette",
+        "last_name": "Loftin",
+        "email": "lloftin8@cnbc.com",
+        "gender": "Female",
+        "ip_address": "225.177.206.167"
+    },
+    {
+        "id": 10,
+        "first_name": "Casper",
+        "last_name": "Nineham",
+        "email": "cnineham9@thetimes.co.uk",
+        "gender": "Male",
+        "ip_address": "132.170.124.147"
+    }
+]
